@@ -1,0 +1,29 @@
+# Ignorar ambientes virtuais e dependências
+venv*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos e pastas do sistema
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Variáveis e segredos
+.env
+
+# Dados temporários
+*.sqlite3
+*.db
+*.bak
+*.tmp
+*.swp
+
+# Modelos e arquivos grandes (ex: IA, torch, etc)
+*.pt
+*.h5
+*.ckpt
+*.dylib
+*.so

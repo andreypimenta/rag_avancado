@@ -1,0 +1,12 @@
+Inteligência Artificial (IA) é um campo da ciência da computação dedicado 
+a criar sistemas capazes de realizar tarefas que normalmente exigiriam 
+inteligência humana. Isso inclui aprendizado, raciocínio, percepção e 
+compreensão de linguagem natural.
+
+Machine Learning é um subcampo da IA focado em algoritmos que melhoram 
+automaticamente através da experiência. Deep Learning usa redes neurais 
+profundas para aprender representações complexas de dados.
+
+RAG (Retrieval-Augmented Generation) combina recuperação de informações 
+com geração de linguagem natural, permitindo que modelos de IA acessem 
+conhecimento externo para produzir respostas mais precisas e atualizadas.

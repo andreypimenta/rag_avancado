@@ -1,0 +1,11 @@
+{
+  "nome": "João Silva",
+  "idade": 45,
+  "diagnostico": "Diabetes tipo 2",
+  "medicacoes": [
+    "Metformina 850mg - 2x ao dia",
+    "Sinvastatina 20mg - 1x ao dia"
+  ],
+  "alergias": ["Penicilina"],
+  "historico": "Hipertensão controlada, histórico familiar de diabetes"
+}

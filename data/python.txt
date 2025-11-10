@@ -1,0 +1,10 @@
+Python é uma linguagem de programação de alto nível, interpretada e de 
+propósito geral. Foi criada por Guido van Rossum e lançada em 1991.
+
+Python é conhecida por sua sintaxe clara e legível, o que a torna ideal 
+para iniciantes. É amplamente usada em ciência de dados, machine learning, 
+desenvolvimento web, automação e scripts.
+
+Principais características: tipagem dinâmica, garbage collection, 
+suporte a múltiplos paradigmas de programação (orientado a objetos, 
+funcional, procedural).
